@@ -1,42 +1,20 @@
-# Abdelrahman Mostafa - Frontend Web Developer
+<h1 align="center">Hi 👋, I'm Abdelrahman Mostafa</h1>
+<h3 align="center">Frontend Developer</h3>
 
-[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/your_username)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanmostafa0&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanmostafa0" /> </p>
 
-## About Me
-I am Abdelrahman Mostafa, a passionate frontend web developer with a strong background in computer science. I graduated from Helwan University with a degree in Computer Science. Currently, I am working full-time as a frontend web developer at Lesoll.
 
-## Skills
-- HTML ![HTML](https://fontawesome.com/icons/html5?style=brands)
-- CSS ![CSS](https://fontawesome.com/icons/css3?style=brands)
-- JavaScript ![JavaScript](https://fontawesome.com/icons/javascript?style=brands)
-- Bootstrap ![Bootstrap](https://fontawesome.com/icons/bootstrap?style=brands)
-- ReactJS ![ReactJS](https://fontawesome.com/icons/react?style=brands)
-- Next.js ![Next.js](https://fontawesome.com/icons/react?style=brands)
-- Tailwind CSS ![Tailwind CSS](https://fontawesome.com/icons/tailwind?style=brands)
+- 📫 How to reach me **abdelrahmanmostafa.developer@gmail.com**
 
-## Top Language
-![Top Language](https://img.shields.io/github/languages/top/your_username/your_repository)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a target="_blank" href="https://linkedin.com/in/abdelrahmanmostafa0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmanmostafa0" height="30" width="40" /></a>
+</p>
 
-## Commits
-![Commits](https://img.shields.io/github/commit-activity/w/your_username/your_repository)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-## Experience
-- Company: Lesoll
-- Position: Frontend Web Developer
-- Website: [www.lesoll.com](https://www.lesoll.com)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanmostafa0&show_icons=true&locale=en&layout=compact" alt="abdelrahmanmostafa0" /></p>
 
-## Projects
-Here are some notable projects I have worked on:
 
-1. Project Name: [Project 1](https://github.com/username/project1)
-   Description: Briefly explain the project and your role in it.
-
-2. Project Name: [Project 2](https://github.com/username/project2)
-   Description: Briefly explain the project and your role in it.
-
-Feel free to explore my GitHub repositories for more projects and code samples.
-
-## Contact Information
-You can reach me via email at [your_email@example.com](mailto:your_email@example.com) or connect with me on LinkedIn using the provided icon above.
-
-Thank you for visiting my GitHub profile!
