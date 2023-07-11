@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Mostafa</h1>
 <h3 align="center">Frontend Developer</h3>
+## About Me
+I am Abdelrahman Mostafa, a passionate frontend web developer with a strong background in computer science. I graduated from Helwan University with a degree in Computer Science. Currently, I am working full-time as a frontend web developer at Lesoll.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanmostafa0&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanmostafa0" /> </p>
 
