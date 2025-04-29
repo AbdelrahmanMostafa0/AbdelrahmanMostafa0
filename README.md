@@ -1,22 +1,31 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Mostafa</h1>
-<h3 align="center">Frontend Developer</h3>
-<h3>About Me</h3>
-I am Abdelrahman Mostafa, a passionate frontend web developer with a strong background in computer science. I graduated from Helwan University with a degree in Computer Science. Currently, I am working full-time as a frontend web developer at Lesoll.
-<br/>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanmostafa0&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanmostafa0" /> </p> -->
+# 👋 Hey, I’m Abdelrahman Mostafa
+
+**Frontend Dev · Full-stack in progress · Builder by obsession**
 
 
-- 📫 How to reach me **abdelrahmanmostafa.developer@gmail.com**
+Hey, I’m Abdelrahman — a frontend dev who does more than just “make things pretty.”  
+I care about **function**, **performance**, and **purpose**. I’ve been building solid UIs, and pushing myself past the comfort zone every day.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a target="_blank" href="https://linkedin.com/in/abdelrahmanmostafa0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmanmostafa0" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanmostafa0&show_icons=true&locale=en&layout=compact" alt="abdelrahmanmostafa0" /></p>
+I don’t just code for the job — I code to **understand how things work**, and how to build them better.
 
 
+```ts
+const stack = {
+  frontend: ["HTML5/CSS3", "javascript", "Typescript", 'React', 'Next.js', 'Redux Toolkit', 'Framer Motion'],
+  styling: ['CSS3', 'SASS', 'Tailwind CSS'],
+  backend (learning): ['Node.js', 'MongoDB', 'Express'],
+  tools: ['Git', 'Figma', 'VSCode'],
+};
+
+```
+
+## 🗣️ Let's Talk
+
+I like clean code, clean UI, and blaming the backend when things break.
+If you’re into building things that *actually matter* — reach out.
+
+- 💬 [LinkedIn](https://linkedin.com/in/abdelrahmanmostafa0)  
+- 🐙 [GitHub](https://github.com/Abdelrahmanmostafa0)  
+- 📬 [abdelrahmanmostafa.developer@gmail.com](mailto:abdelrahmanmostafa.developer@gmail.com)
+
+> Life’s short. Push to main.
