@@ -22,6 +22,7 @@ const stack = {
 ## 🗣️ Let's Talk
 
 I like clean code, clean UI, and blaming the backend when things break.
+
 If you’re into building things that *actually matter* — reach out.
 
 - 💬 [LinkedIn](https://linkedin.com/in/abdelrahmanmostafa0)  
