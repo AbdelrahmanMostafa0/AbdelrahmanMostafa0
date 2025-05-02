@@ -3,11 +3,14 @@
 **Frontend Dev · Full-stack in progress · Builder by obsession**
 
 
-Hey, I’m Abdelrahman — a frontend dev who does more than just “make things pretty.”  
-I care about **function**, **performance**, and **purpose**. I’ve been building solid UIs, and pushing myself past the comfort zone every day.
+I’m Abdelrahman — a frontend dev who does more than “make things pretty.”  
 
-I don’t just code for the job — I code to **understand how things work**, and how to build them better.
+I don’t just make things look good — I focus on function, performance, and pushing the boundaries of what I can do every day.
 
+I love the power of coding — how it lets you bring any idea to life from scratch. There’s a creative freedom in it that feels like having superpowers. With just a keyboard and a bit of logic, you can build anything you imagine.
+
+
+For me, it’s not just about writing code — it’s about understanding how things work and how to make them better.
 
 ```ts
 const stack = {
