@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Abdelrahman Mostafa
+#  Hey, I’m Abdelrahman Mostafa
 
 **Frontend Dev · Full-stack in progress · Builder by obsession**
 
