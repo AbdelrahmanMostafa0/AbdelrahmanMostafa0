@@ -1,30 +1,20 @@
-#  Hey, I’m Abdelrahman Mostafa
+# Abdelrahman Mostafa
+**Frontend Dev · Full-stack Builder**
 
-**Frontend Dev · Full-stack in progress · Builder by obsession**
-
-
-I’m Abdelrahman — a frontend dev who does more than “make things pretty.”  
-
-I don’t just make things look good — I focus on function, performance, and pushing the boundaries of what I can do every day.
-
-I love the power of coding — how it lets you bring any idea to life from scratch. There’s a creative freedom in it that feels like having superpowers. With just a keyboard and a bit of logic, you can build anything you imagine.
-
-
-For me, it’s not just about writing code — it’s about understanding how things work and how to make them better.
-
+I build things that work as good as they look.  
+Started with pixels, now I'm deep in APIs, databases, and systems that actually solve problems.  
+Two years in — still the most curious person in the room.
 ```ts
 const stack = {
-  frontend: ["HTML5/CSS3", "javascript", "Typescript", 'React', 'Next.js', 'Redux Toolkit', 'Framer Motion'],
-  styling: ['CSS3', 'SASS', 'Tailwind CSS'],
-  backend (learning): ['Node.js', 'MongoDB', 'Express'],
-  tools: ['Git', 'Figma', 'VSCode'],
+  frontend: ["React", "Next.js", "TypeScript", "Framer Motion", "Redux Toolkit"],
+  styling: ["Tailwind CSS", "SASS", "CSS3"],
+  backend: ["Node.js", "Express", "MongoDB"],
+  tools: ["Git", "Figma", "Postman", "AWS", "Linux"],
 };
-
 ```
 
 ## 🗣️ Let's Talk
 
-I like clean code, clean UI, and blaming the backend when things break.
 
 If you’re into building things that *actually matter* — reach out.
 
