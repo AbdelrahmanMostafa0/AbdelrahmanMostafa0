@@ -18,8 +18,9 @@ const stack = {
 
 If you’re into building things that *actually matter* — reach out.
 
-- 💬 [LinkedIn](https://linkedin.com/in/abdelrahmanmostafa0)  
-- 🐙 [GitHub](https://github.com/Abdelrahmanmostafa0)  
-- 📬 [abdelrahmanmostafa.developer@gmail.com](mailto:abdelrahmanmostafa.developer@gmail.com)
+-  [LinkedIn](https://linkedin.com/in/abdelrahmanmostafa0)  
+-  [GitHub](https://github.com/Abdelrahmanmostafa0)  
+-  [abdelrahmanmostafa.developer@gmail.com](mailto:abdelrahmanmostafa.developer@gmail.com)
+-  [Website](https://abdelrahmanmostafa.com)
 
 > Life’s short. Push to main.
