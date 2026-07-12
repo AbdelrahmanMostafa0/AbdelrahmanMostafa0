@@ -3,7 +3,7 @@
 
 I build things that work as good as they look.  
 Started with pixels, now I'm deep in APIs, databases, and systems that actually solve problems.  
-Two years in — still the most curious person in the room.
+Three years in — still the most curious person in the room.
 ```ts
 const stack = {
   frontend: ["React", "Next.js", "TypeScript", "Framer Motion", "Redux Toolkit"],
