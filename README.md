@@ -1,22 +1,25 @@
 # Abdelrahman Mostafa
-**Frontend Dev · Full-stack Builder**
+**Full-Stack Engineer** 
 
-I build things that work as good as they look.  
-Started with pixels, now I'm deep in APIs, databases, and systems that actually solve problems.  
-Three years in — still the most curious person in the room.
-```ts
-const stack = {
-  frontend: ["React", "Next.js", "TypeScript", "Framer Motion", "Redux Toolkit"],
-  styling: ["Tailwind CSS", "SASS", "CSS3"],
-  backend: ["Node.js", "Express", "MongoDB"],
-  tools: ["Git", "Figma", "Postman", "AWS", "Linux"],
+Started out pushing pixels, fell down the rabbit hole into APIs,
+databases, and caching layers, and never climbed back out.
+
+-  Always building something. My side-project graveyard is huge and I'm proud of it
+-  Frontend by heart, backend by curiosity, DevOps by force
+-  Ask me about anything. If I don't know it, I will by tomorrow.
+
+```js
+const me = {
+  role: "Full-Stack Engineer",
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind", "Framer Motion"],
+  state: ["Zustand", "TanStack Query"],
+  backend: ["Node.js", "Express", "MongoDB", "Redis","Postgresql"],
+  infra: ["AWS", "Vercel", "Cloudinary", "Linux"],
+  bugsFixedAt3am: Infinity,
 };
 ```
-
 ## 🗣️ Let's Talk
 
-
-If you’re into building things that *actually matter* — reach out.
 
 -  [LinkedIn](https://linkedin.com/in/abdelrahmanmostafa0)  
 -  [GitHub](https://github.com/Abdelrahmanmostafa0)  
