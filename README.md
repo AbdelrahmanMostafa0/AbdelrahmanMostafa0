@@ -7,6 +7,7 @@ databases, and caching layers, and never climbed back out.
 -  Always building something. My side-project graveyard is huge and I'm proud of it
 -  Frontend by heart, backend by curiosity, DevOps by force
 -  Ask me about anything. If I don't know it, I will by tomorrow.
+-  Currently building [Hazzoura](https://hazzoura.com): an Arabic-first classroom board + games platform for teachers
 
 ```js
 const me = {
