@@ -1,5 +1,5 @@
 # Abdelrahman Mostafa
-**Full-Stack Engineer** 
+**Software Engineer** 
 
 Started out pushing pixels, fell down the rabbit hole into APIs,
 databases, and caching layers, and never climbed back out.
